@@ -192,3 +192,214 @@
 #statement p span {
   color: rgb(216, 196, 83);
 }
+#line{
+    height: 3px;
+    width: 100%;
+    /* padding: 10px; */
+    background-color: rgba(49, 49, 61, 0.685);
+}
+@media screen and (max-width:800px){
+
+    #body{
+        display: block;
+        gap: 100px;
+        margin-left: 5px;
+    }
+    #tall {
+        width: 530px;
+        height: 100%;
+        background-color: rgb(47, 45, 59) ;
+        color: white;
+         font-family: allerta;
+    }
+    #inn {
+        margin-left: 50px ;
+    }
+    #inn img{
+        margin-top: 20px ;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+    #tall h2, h3, h4 {
+        color: rgb(216, 196, 83);
+        margin: 70px 0 0 0;
+       font-family: bebas neue;
+    }
+    #names h1 {
+        font-family: bebas neue;
+        color: rgb(47, 45, 59);
+        font-size: 50px;
+    }
+    #names p {
+        font-family: bebas neue;
+        color: rgb(216, 196, 83);
+        font-size: x-large;
+    }
+    #contacts {
+        margin-top:65px ;
+    }
+    #contacts p i {
+        color: rgb(216, 196, 83);
+    }
+    #young p {
+        margin-top: 30px;
+    }
+    #tall h3{
+        margin-top: 30px;
+        font-family: bebas neue;
+    } 
+    #tall h4 {
+        margin-top: 30px;
+        font-family: bebas neue;
+    }
+    #name{
+        display: block;
+        gap: 50px;
+        margin-top: 30px;
+    }
+    #educat {
+        display: block;
+       
+        margin-top: 20px;
+    }
+    #educat p {
+        font-family: allerta;
+        color: rgb(37, 37, 58);
+    }
+    #educa h2 {
+        color:rgb(216, 196, 83);
+        font-family: bebas neue;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+    
+    #notre h5 {
+        color: rgb(49, 49, 61);
+        font-family: allerta;
+    }
+    
+    #three {
+        display: block;
+        gap: 100px;
+        margin-top: 20px;
+     
+    
+       
+    }
+    #one {
+        display: block;
+        gap: 100px;
+        margin-top: 20px;
+    
+    }
+    #two {
+        display: block;
+        gap: 100px;
+        margin-top: 20px;
+    
+    }
+    #exp {
+         margin-left: 0px;
+    }
+    #alo {
+        margin-left: 0px;
+    }
+    
+    #skills {
+        margin-top: 30px;
+    }
+    #skills h2 {
+        color: rgb(216, 196, 83);
+        font-family: bebas neue;
+        margin-top: 30px;
+    }
+    
+    #skills p {
+        color: rgb(49, 49, 61);
+        font-family: allerta;
+    }
+    #skill{
+        display: block;
+        justify-content: space-between;
+        
+        margin-top: 30px;
+        flex-wrap: nowrap;
+    }
+    #border {
+        height: 5px;
+        width: 260px;
+        background-color: gray;
+    }
+    #bar{
+        height: 100%;
+        width: 100%;
+        background-color: rgb(216, 196, 83) ; 
+    }
+    #cs {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    #js{
+        margin-top: 6px;
+    }
+    #languages{
+        color: rgb(49, 49, 61);
+        font-family: allerta;
+        margin-top: 30px;
+    }
+    #languages h2 {
+        margin-top: 30px;
+        color: rgb(216, 196, 83);
+        font-family: bebas neue;
+    }
+    #lang{
+       gap: 100px;
+      
+      display: block;
+      margin-top: 30px;
+      flex-wrap: wrap;
+    }
+    #kiny{
+        margin-left: 0px; 
+        margin-top: 20px;
+    }
+    #refer {
+        margin-top: 30px;
+        font-family: allerta;
+        color: rgb(49, 49, 61);
+    }
+    #refer h2{
+        font-family: bebas neue;
+        color: rgb(216, 196, 83);
+    }
+    
+    #chem{
+        margin-top: 30px;
+    }
+    #dire {
+        margin-top: 30px;
+    }
+    #statement{
+        margin-top: 30px;
+        font-family: allerta;
+        color: rgb(49, 49, 61);
+    }
+    #statement h2{
+        font-family: bebas neue;
+        color: rgb(216, 196, 83);
+    }
+    #statement p {
+        margin-top: 30px;
+    }
+    #statement p span {
+      color: rgb(216, 196, 83);
+    }
+    #line{
+        height: 3px;
+        width: 530px;
+        /* padding: 10px; */
+        background-color: rgba(49, 49, 61, 0.685);
+    }
+    
+}
