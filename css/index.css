@@ -192,7 +192,7 @@
 #statement p span {
   color: rgb(216, 196, 83);
 }
-#line{
+.line{
     height: 3px;
     width: 100%;
     /* padding: 10px; */
@@ -395,7 +395,7 @@
     #statement p span {
       color: rgb(216, 196, 83);
     }
-    #line{
+    .line{
         height: 3px;
         width: 530px;
         /* padding: 10px; */
